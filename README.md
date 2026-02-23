@@ -25,14 +25,14 @@
 - **Objective:** Automate image processing using S3 event triggers and Lambda to save storage costs.
 
 - ### Project Screenshots
-![Web Server Working](link_to_your_uploaded_scree<img width="1919" height="1079" alt="Screenshot 2026-02-23 194839" src="https://github.com/user-attachments/assets/27b00f35-ae58-4d21-879a-a819315da508" />
+![Web Server Working](<img width="1919" height="1079" alt="Screenshot 2026-02-23 194839" src="https://github.com/user-attachments/assets/27b00f35-ae58-4d21-879a-a819315da508" />
 nshot_here)
 
 ### Project Screenshots
-![S3 triggers a Python Lambda function to analyze images using AI](link_to_your_uploa<img width="1919" height="1071" alt="Screenshot 2026-02-23 195448" src="https://github.com/user-attachments/assets/58f8ad20-6140-4b48-9a1d-7c4b457e0b60" />
+![S3 triggers a Python Lambda function to analyze images using AI](<img width="1919" height="1071" alt="Screenshot 2026-02-23 195448" src="https://github.com/user-attachments/assets/58f8ad20-6140-4b48-9a1d-7c4b457e0b60" />
 ded_screenshot_here)
 
 ### Project Screenshots
-![AWS Security Alert](link_to_your_uploaded_scree<img width="1919" height="1079" alt="Screenshot 2026-02-23 211412" src="https://github.com/user-attachments/assets/186c1eac-be6f-4868-9f71-c4f9fbd5b76e" />
+![AWS Security Alert](<img width="1919" height="1079" alt="Screenshot 2026-02-23 211412" src="https://github.com/user-attachments/assets/186c1eac-be6f-4868-9f71-c4f9fbd5b76e" />
 nshot_here)
 
