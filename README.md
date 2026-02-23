@@ -32,3 +32,7 @@ nshot_here)
 ![S3 triggers a Python Lambda function to analyze images using AI](link_to_your_uploa<img width="1919" height="1071" alt="Screenshot 2026-02-23 195448" src="https://github.com/user-attachments/assets/58f8ad20-6140-4b48-9a1d-7c4b457e0b60" />
 ded_screenshot_here)
 
+### Project Screenshots
+![AWS Security Alert](link_to_your_uploaded_scree<img width="1919" height="1079" alt="Screenshot 2026-02-23 211412" src="https://github.com/user-attachments/assets/186c1eac-be6f-4868-9f71-c4f9fbd5b76e" />
+nshot_here)
+
