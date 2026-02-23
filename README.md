@@ -24,7 +24,7 @@
 ## 4. Serverless Thumbnail Generator
 - **Objective:** Automate image processing using S3 event triggers and Lambda to save storage costs.
 
-- ## 5. Serverless Visitor Counter 📈
+ ## 5. Serverless Visitor Counter 📈
 - **Objective:** Build a dynamic visitor counter for a website using a serverless backend.
 - **Services Used:** AWS Lambda, Amazon DynamoDB, API Gateway, S3 (Static Website Hosting).
 - **How it works:** - The frontend (JavaScript) calls an **API Gateway** endpoint.
